@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8D88E3E3-1221-43B9-8E02-AB018BD9D306</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Apple</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BA493931FB4D402AE1D86741810E02AB7DD04505</key>
+		<string>https://github.com/fpmisk/lab1.git</string>
+		<key>F0469A0DF03C723623740151066491578EC5C390</key>
+		<string>https://github.com/fpmisk/Apple.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Apple.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BA493931FB4D402AE1D86741810E02AB7DD04505</key>
+		<string>../../..</string>
+		<key>F0469A0DF03C723623740151066491578EC5C390</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fpmisk/Apple.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F0469A0DF03C723623740151066491578EC5C390</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BA493931FB4D402AE1D86741810E02AB7DD04505</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F0469A0DF03C723623740151066491578EC5C390</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Apple</string>
+		</dict>
+	</array>
+</dict>
+</plist>
